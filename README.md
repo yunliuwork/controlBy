@@ -1,2 +1,1 @@
-# shell
-cmd:rm -rf *
+#controlBy
